@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Maria camila",
+            "last name": "gomez ruiz",
+            "telefono": "3156789031",
+            "cargo": "contador",
+            "cedula": "1234567890",
+            "edad": 30
+        },
+        {
+            "id": 2,
+            "name": "Angelo",
+            "last name": "Valencia Ruiz",
+            "telefono": "3158075634",
+            "cargo": "psicologo",
+            "cedula": "1234567990",
+            "edad": 37
+        },
+        {
+            "id": 3,
+            "name": "Nicolas ",
+            "last name": "Romero",
+            "telefono": "3126389031",
+            "cargo": "director ejecutivo",
+            "cedula": "7896780",
+            "edad": 56
+        },
+        {
+            "id": 4,
+            "name": "Luisa Paola",
+            "last name": "MUñoz GIL",
+            "telefono": "3116780031",
+            "cargo": "Director de Marketing",
+            "cedula": "1234567890",
+            "edad": 34
+        },
+
+        {
+            "id": 5,
+            "name": "Mateo",
+            "last name":"Marin Ronero",
+            "telefono": "3105289031",
+            "cargo": "Agente operativo",
+            "cedula": "12348990",
+            "edad": 23
+          },
+
+          {
+            "id": 6,
+            "name": "Milena",
+            "last name":"Pinzon SOL",
+            "telefono": "3126788831",
+            "cargo": "Secretaria ejecutiva",
+            "cedula": "1239667890",
+            "edad": 30
+          },
+
+          {
+            "id": 7,
+            "name": "Fabian Eduardo",
+            "last name":"Saavedra Vasquez",
+            "telefono": "3142229031",
+            "cargo": "Operario",
+            "cedula": "7704567890",
+            "edad": 30
+          },
+
+          {
+            "id": 8,
+            "name": "mario ",
+            "last name":"Bros",
+            "telefono": "3156789031",
+            "cargo": "capacitador",
+            "cedula": "1234567890",
+            "edad": 30
+          },
+
+          {
+            "id": 8,
+            "name": "Sonic",
+            "last name":"The heghog",
+            "telefono": "315678569",
+            "cargo": "repartidor de chilidogs",
+            "cedula": "1234579",
+            "edad": 30
+          },
+
+          {
+            "id": 8,
+            "name": "Luigi",
+            "last name":"Bros",
+            "telefono": "01301231",
+            "cargo": "plomero",
+            "cedula": "12554210",
+            "edad": 24
+          }
+    ]
+}
