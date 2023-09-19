@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.user-details {
+  display: flex;
+  flex-direction: row; 
+  justify-content: flex-start; 
+  align-items: center; 
+  background-color: rgb(234, 250, 164);
+}
+
+.user-card {
+  margin-right: 10px; 
+}
+.user.list {
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
